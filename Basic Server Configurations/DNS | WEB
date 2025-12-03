@@ -1,1 +1,7 @@
+DNS and Web server for Debian 12 with Windows client
+
+1. Install two seperate Debian servers using any Hypervisor (Oracle VM VirtualBox)
+  - use standard system utilities
+  - allow for ssh
+  - enable pre Web server installation on one of them (default Apache2)
 
