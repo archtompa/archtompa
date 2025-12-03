@@ -1,6 +1,6 @@
-Hi and welcome to my README file!👋
+Hej och v'a'lkommen till min README sida!👋
 
-The purpose of this Github is to showcase my own documentation and projects regarding Linux server, mostly for Debian 12/13.
+Syftet med denna Githuben är att visa upp mina dokumentationer och project för Linux server, mestadels för Debian 12/13
 
 <!--
 **archtompa/archtompa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
