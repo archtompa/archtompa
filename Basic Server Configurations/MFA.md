@@ -21,8 +21,10 @@ systemctl restart ssh
 Gå ut från root och logga in till användaren som ska erhålla MFA
 
 skriv in "google-authenticator" i terminalen
-	→ svara med y och skanna QR-kod för att lägga in servern på den andra enheten
-		→ fortsätt genom prompten, förslagsvis y för alla inställningar
+
+→ svara med y och skanna QR-kod för att lägga in servern på den andra enheten
+
+→ fortsätt genom prompten, förslagsvis y för alla inställningar
 
 ! Om konfiguration redan görs via SSH, säkerställ att den primära inloggningen fortfarande är aktiv för att förhindra utelåsning när MFA används för första gången
 
