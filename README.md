@@ -1,9 +1,8 @@
 Hej och v'a'lkommen till min README sida!👋
 
 Syftet med denna Githuben är att visa upp mina dokumentationer och projekt för Linux server, mestadels för Debian 12/13.
-I nuläget kommer allt publiceras i repot "archtompa" på svenska. V'a'lkommen att ta för dig!
-https://wiki.debian.org/SystemAdministration
-https://wiki.debian.org/Network
+I nuläget kommer allt publiceras i repot "Linux_Showcase" på svenska. V'a'lkommen att ta för dig!
+
 
 <!--
 **archtompa/archtompa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
